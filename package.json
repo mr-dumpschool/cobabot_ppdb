@@ -5,7 +5,7 @@
   "scripts": {
     "build": "npm install",
     "test": "echo \"No test specified\" && exit 1",
-    "start": "node server",
+    "start": "server/server.js",
     "dev": "nodemon server"
   },
   "repository": {
