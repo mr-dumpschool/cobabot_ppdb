@@ -4,7 +4,7 @@
   "description": "A simple OpenAI-powered chatbot",
   "main": "index.js",
   "scripts": {
-    "start": "node /server/server.js",
+    "start": "node ./server/server.js",
     "test": "echo \"No test specified\" && exit 1",
     "build": "npm install"
   },
