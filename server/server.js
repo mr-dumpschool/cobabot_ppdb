@@ -34,7 +34,7 @@ app.post('/', async (req, res) => {
     const fullPrompt = `${backgroundInfo}\n\n${prompt}`;
 
     const response = await openai.createCompletion({
-      model: 'text-davinci-002',
+      model: 'text-davinci-003',
       prompt: fullPrompt,
       temperature: 0.5,
       max_tokens: 1024,
