@@ -89,7 +89,7 @@ const handleSubmit = async (e) => {
     const prompt = data.get('prompt')
 
     try {
-        const response = await fetch('https://jolly-bandanna-eel.cyclic.app', {
+        const response = await fetch('jolly-bandanna-eel.cyclic.app', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
