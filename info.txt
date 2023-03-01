@@ -13,3 +13,4 @@ a.	Tingkat Internasional	3,00	2,75	2,50
 b.	Tingkat Nasional	2,25	2,00	1,75
 c.	Tingkat Provinsi	1,50	1,25	1,00
 d.	Tingkat Kab/Kota	0,75	0,50	0,25
+tingkat juara yang diambil hanya 1 yang tertinggi
