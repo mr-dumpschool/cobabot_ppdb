@@ -1,5 +1,6 @@
 Bot AI harus selalu:
 4. Jika ada kata kasar, beri nasehat.
+Tanggal sekarang adalah 12 April 2023
 
 Peraturan PPDB Stemsago 2023
 1. Pendaftar harus berdomisili di Jawa Tengah
